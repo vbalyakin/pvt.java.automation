@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6655673-e7e4-47fa-bbf0-e455ebe76973" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/META-INF/AT_Task_1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Creator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_10_EdgeElementsChanger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_11_MaxMinElementsFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_12_MaxMinElementsIndexFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_13_IncreaseArrayChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_14_HalfSumOfNeighboursReplacementer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_15_CyclicShifter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_16_Optional_QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_17_Optional_ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_4_ArrayPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_5_Multiplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_6_EachThirdMultiply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_7_FinderZeroElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_8_FinderZeroElementsIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Task_9_NeighborsSwapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_1/out/production/AT_Task_1/pvt/automation/valentin/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/IHuman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Master.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/MethodsMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AT_Task_2/out/production/AT_Task_2/pvt/automation/valentin/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_5_0.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_5_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_5_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_5_3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_youtubeAnalytics_v2_rev243_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_awscdk_cdk_cx_api_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_awscdk_cdk_region_info_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_awscdk_cloudwatch_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_awscdk_core_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_awscdk_iam_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_jsii_jsii_runtime_0_20_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/valentin/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/valentin/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/valentin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/valentin/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AT_Task_1/.gitignore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XUgtEOWMc7suwMOo5r6vU0qRQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="valentin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="valentin" />
+      <option name="MAIN_CLASS_NAME" value="valentin.AppTest" />
+      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6655673-e7e4-47fa-bbf0-e455ebe76973" name="Default Changelist" comment="" />
+      <created>1581106300827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581106300827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
